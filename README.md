@@ -5,5 +5,5 @@ Kurssin viikkotehtävän 5 palautus.
 
 ### Sovelluksen toiminnasta
 
-ToDo listalta voi poistaa tehtävän painamalla tehtävää kerran, joilloin se yliviivataan.
+ToDo listalta voi poistaa tehtävän painamalla tehtävää kerran, jolloin se yliviivataan.
 Painamalla yliviivattua tehtävää pitkään se poistetaan.
